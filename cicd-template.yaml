@@ -5,9 +5,14 @@ adf  fdnfknd,fndlfnldfldjfklk
 ----------------------------------------------------------
 testing oc45
 addd 123444555555555555555566677
+<<<<<<< HEAD
 -------------------------------------------------=======================================================
 wefbwefkwgk
 wewlktltrlke
+=======
+====================================================================================================
+dgfdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddds
+>>>>>>> e5b0e4838199735404514ea97f01721fe8d592c2
 labels:
   template: cicd
   group: cicd
