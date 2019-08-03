@@ -1,6 +1,7 @@
 apiVersion: v1
 kind: Template
-vfffffffffffffffffffffffffffffffffffffffffffffffffffff
+testing oc45
+addd 123444555555555555555566677
 labels:
   template: cicd
   group: cicd
